@@ -45,9 +45,7 @@ class IntJoukko:
         x = IntJoukko()
         a_taulu = a.to_int_list()
         b_taulu = b.to_int_list()
-        for i in a_taulu:
-            x.lisaa(i)
-        for i in b_taulu:
+        for i in a_taulu + b_taulu:
             x.lisaa(i)
         return x
 
@@ -57,9 +55,8 @@ class IntJoukko:
         a_taulu = a.to_int_list()
         b_taulu = b.to_int_list()
         for i in a_taulu:
-            for j in b_taulu:
-                if i == j:
-                    y.lisaa(j)
+            if i in b_taulu:
+                y.lisaa(i)
         return y
 
     @staticmethod
