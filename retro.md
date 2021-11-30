@@ -1,0 +1,5 @@
+Ketterissä menetelmissä yksi sprintti päättyy retrospektiiviin, jossa on tarkoitus katsoa mikä meni hyvin ja mitä voisi parantaa jatkossa. Retrospektiivin pitämiseen on kehitetty useita erilaisia tapoja, kuten Start, Stop, Continue, More of, Less of Wheel (SSCMLW) ja Glad, Sad, Mad (GSM).
+
+SSCMLW on lyhyt menetelmä, jossa tiimi antaa sprintistä kommentteja jotka tallennetaan viiden kategorian alle: Mitä voisi aloittaa, mitä käytänteitä voisi lopettaa, mitä jatketaan, mitä voisi tehdä enemmän ja mitä voisi tehdä vähemmän. Tämän pohjalta käydään keskustelua ja sovitaan erityiset toimet seuraavaa sprinttiä varten.
+
+GSM menetelmässä tiimin listaamat havainnot kategorisoidaan ryhmiin Glad ja Sad, jotka tarkoittavat positiivisia ja negatiivisia havaintoja tiimin toiminnasta ja sprintistä, sekä Mad, johon listataan laajemmat huolet jotka eivät koske pelkästään tiimin toimintaa. Osallistujat äänestävät aiheista ne joista keskustellaan tarkemmin. Keskustelun päämääränä on selvittää mitä voitaisiin tehdä seuraavassa sprintissä paremmin.
